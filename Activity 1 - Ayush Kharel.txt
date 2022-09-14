@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <ol>
+      <li>Wednesday</li>
+      <li>Thursday</li>
+      <li>Friday</li>
+    </ol>
+  <ul>
+      <li>Fruits</li>
+        <ul>
+          <li>bananas</li>
+          <li>apples</li>
+            <ul>
+              <li>green apples</li>
+              <li>red apples</li>
+            </ul>
+         </ul>
+        <li>vegetables</li>
+        <ul>
+          <li>carrot</li>
+          <li>lettuce</li>
+          <li>tomatoes</li>
+        </ul>
+        <li>meat</li>
+        <li>dessert</li>
+          <ul>
+            <li>cake</li>
+          </ul>
+    </ul>
+  </body>
+</html>
